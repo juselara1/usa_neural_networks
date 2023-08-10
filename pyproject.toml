@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "usa_neural_networks"
+version = "2023.2.0"
+authors = [{name = "Juan Lara", email = "julara@unal.edu.co"}]
+description = "Redes Neuronales para High-Performance Computing"
+requires-python = ">3.8"
+dependencies = [
+    "jupytext", "numpy", "matplotlib", "pandas", "jax"
+]
+
+[project.optional-dependencies]
+dev = ["black", "asyncmake", "textbook_nvim", "ipython", "PyQt5"]
+
+[tool.setuptools.packages.find]
+where = ["src/"]
