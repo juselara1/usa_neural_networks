@@ -37,6 +37,7 @@ En este repositorio encontrará el material relacionado al curso de redes neuron
 | 03-08-23 | Neurona Artificial | [3_neurona_artificial.ipynb](https://github.com/juselara1/usa_neural_networks/blob/main/src/3_neurona_artificial.ipynb) | [enlace](https://drive.google.com/file/d/1kZjKJcrdH2N0q_iTZLqvhm9w7UqJNhuL/view?usp=drive_link) |
 | 04-08-23 | Redes multicapa | [4_ann.ipnyb](https://github.com/juselara1/usa_neural_networks/blob/main/src/4_ann.ipynb) | [enlace](https://drive.google.com/file/d/1kcpcINyOz2YJdT_Tlqr1YMwUb4pKPRhn/view?usp=drive_link) |
 | 10-08-23 | Redes multicapa 2 | [5_multilayer.ipynb](https://github.com/juselara1/usa_neural_networks/blob/main/src/5_multilayer.ipynb) | [enlace](https://drive.google.com/file/d/1UlqBOYX9adCr768fHAW-3Z91Fu4D3xuz/view?usp=drive_link) |
+| 11-08-23 | Flax | [6_flax.ipynb](https://github.com/juselara1/usa_neural_networks/blob/main/src/6_flax.ipynb) | [enlace](https://drive.google.com/file/d/14jX0IyDbwOjdqLf7U9S7Ncq6p567HYP9/view?usp=drive_link) |
 
 # Talleres
 
