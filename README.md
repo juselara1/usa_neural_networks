@@ -38,6 +38,9 @@ En este repositorio encontrará el material relacionado al curso de redes neuron
 | 04-08-23 | Redes multicapa | [4_ann.ipnyb](https://github.com/juselara1/usa_neural_networks/blob/main/src/4_ann.ipynb) | [enlace](https://drive.google.com/file/d/1kcpcINyOz2YJdT_Tlqr1YMwUb4pKPRhn/view?usp=drive_link) |
 | 10-08-23 | Redes multicapa 2 | [5_multilayer.ipynb](https://github.com/juselara1/usa_neural_networks/blob/main/src/5_multilayer.ipynb) | [enlace](https://drive.google.com/file/d/1UlqBOYX9adCr768fHAW-3Z91Fu4D3xuz/view?usp=drive_link) |
 | 11-08-23 | Flax | [6_flax.ipynb](https://github.com/juselara1/usa_neural_networks/blob/main/src/6_flax.ipynb) | [enlace](https://drive.google.com/file/d/14jX0IyDbwOjdqLf7U9S7Ncq6p567HYP9/view?usp=drive_link) |
+| 18-08-23 | Flax 2 | [7_flax2.ipynb](https://github.com/juselara1/usa_neural_networks/blob/main/src/7_flax2.ipynb) | [enlace]() |
+| 24-08-23 | Optax | [8_optax.ipynb](https://github.com/juselara1/usa_neural_networks/blob/main/src/8_optax.ipynb) | [enlace](https://drive.google.com/file/d/1QG-MzCz1y_J29LYZm1umCcW6ozq4pUd0/view?usp=drive_link) |
+| 25-08-23 | Cross-validation | [9_crossval.ipynb](https://github.com/juselara1/usa_neural_networks/blob/main/src/9_crossval.ipynb) | [enlace](https://drive.google.com/file/d/19Rm-F4G5vH_nD0Y9Y3SwqWMkJZ940kcA/view?usp=drive_link) |
 
 # Talleres
 
